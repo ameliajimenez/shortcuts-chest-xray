@@ -1,5 +1,5 @@
 ## Detecting Shortcuts in Medical Images - A Case Study in Chest X-rays
-#### by Amelia Jiménez-Sánchez, Dovile Juodelye, Bethany Chamberlain, Veronika Cheplygina
+#### by Amelia Jiménez-Sánchez, Dovile Juodelyte, Bethany Chamberlain, Veronika Cheplygina
 
 This repository provides a PyTorch implementation of our ISBI 2023 submission -> [[**arXiv**]](https://arxiv.org/abs/2211.04279)
 
