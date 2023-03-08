@@ -1,7 +1,7 @@
 ## Detecting Shortcuts in Medical Images - A Case Study in Chest X-rays
 #### by Amelia Jiménez-Sánchez, Dovile Juodelyte, Bethany Chamberlain, Veronika Cheplygina
 
-This repository provides a PyTorch implementation of our ISBI 2023 submission -> [[**arXiv**]](https://arxiv.org/abs/2211.04279)
+This repository provides a PyTorch implementation of our work accepted at ISBI 2023 -> [[**arXiv**]](https://arxiv.org/abs/2211.04279)
 
 ## Overview 
 Data-centric approaches, bias assessment, and validation are increasingly important as datasets get larger, but are still understudied in medical imaging. We review the literature and present a validation study on detecting shortcuts in chest X-rays. Our systematic experiments on two large benchmarks generalize earlier findings which show overoptimistic and biased performance. We share our code and a set of non-expert drain labels for CheXpert dataset under the `preprocess` folder.
